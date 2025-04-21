@@ -1,4 +1,4 @@
-#Day 1
+#Day 1         																											                                                                             
 First we load the python library required ie pandas.
 Then we load the csv file and make a copy so as to not make any changes in the original file.
 Then we checks for any null values and since there are some null values , we drops all those null values.
